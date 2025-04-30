@@ -69,4 +69,3 @@ This task enhanced my understanding of **data aggregation**, **trend analysis**,
 
 I’m a passionate data enthusiast currently completing a **free, unpaid data analytics internship**. I'm focused on building a strong foundation in SQL, Excel, Python, and visualization tools through practical tasks like this.
 
-Let’s connect on ['https://www.linkedin.com/in/gauripatil1911/'](#) or feel free to explore more of my projects!
